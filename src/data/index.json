@@ -1,0 +1,53 @@
+{
+"skills": [
+    {
+      "id": "1",
+      "src": "./img/pic.png",
+      "title": "Front-End",
+      "description": "Creating visually appealing and interactive user interfaces using HTML, CSS, and JavaScript."
+    },
+    {
+      "id": "2",
+      "src": "./img/backend.png",
+      "title": "Back-End",
+      "description": "Focusing on server-side development, database management, and ensuring smooth data flow between client and server."
+    },
+    {
+      "id": "3",
+      "src": "./img/tree (2).png",
+      "title": "UI & UX Design",
+      "description": "Designing intuitive and user-friendly interfaces to enhance user experience and engagement."
+    }
+  ],
+  "projects": [
+    {
+      "id": "1",
+      "src": "./img/portfolio.png",
+      "description": "Created a personal website to showcase my portfolio and resume.",
+      "project_name": "Personal Website",
+      "tools_used": "HTML, CSS, JavaScript, React"
+    },
+    {
+      "id": "2",
+      "src": "./img/fakenews.png",
+      "description": "An ongoing project aimed at detecting fake news in images for low-resource languages.",
+      "project_name": "Detection of Fake News in Images",
+      "tools_used": "Python, Machine Learning"
+    },
+    {
+      "id": "3",
+      "src": "./img/selfdrivingcar.png",
+      "description": "Designed a self-driving car (robot) to automatically detect potential obstructions on the road.",
+      "project_name": "Self-Driving Car",
+      "tools_used": "Python, OpenCV, Raspberry Pi"
+    },
+    {
+      "id": "4",
+      "src": "./img/hangman.png",
+      "description": "Developed a Hangman game using Python 3 and VS Code.",
+      "project_name": "Hangman Game",
+      "tools_used": "Python, VS Code"
+    }   
+  ]
+  }
+  
